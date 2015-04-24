@@ -1,6 +1,6 @@
 # go-os-rename
 
-Easily rename files in place. This is needed because Windows errors on rename if a file already exists. Please see this commit, from which the code is extracted: https://github.com/lvarvel/cacheddownloader/commit/505a1fdcc5af7823f20d7c87d9e4d1c833c59053
+Easily rename files in place. This is needed because Windows errors on rename if a file already exists. Please see this commit, from which the code is extracted: https://github.com/lvarvel/cacheddownloader/commit/505a1fd
 
 #### Godoc: https://godoc.org/github.com/jbenet/go-os-rename
 
